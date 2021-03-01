@@ -1,0 +1,26 @@
+body {
+    min-height: 100vh;
+    padding: 4rem 0;
+    background: url("https://images6.alphacoders.com/106/1062195.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #222;
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+h1,h2 {
+    margin-bottom: 2rem;
+    font-weight: 400;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 2rem;
+}
+
+.box {
+    text-align: center;
+    padding: 10px;
+    background: rgba(255,255,255, .8);
+    border: 1px solid rgba(0,0,0, .4);
+}
