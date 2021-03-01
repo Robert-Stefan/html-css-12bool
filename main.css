@@ -21,7 +21,7 @@ h2 {
 .box {
     text-align: center;
     padding: 10px;
-    background: rgba(255,255,255, .8);
+    background: rgba(142,237, 238, .6);
     border: 1px solid rgba(0,0,0, .4);
 }
 
@@ -29,6 +29,6 @@ h2 {
 .box1 {
     text-align: center;
     padding: 10px;
-    background: rgba(142,237, 238, .2);
+    background: rgba(142,237, 238, .3);
     border: 1px solid rgba(0,0,0, .4);
 }
